@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" ?>
+<data>
+	<strings>
+		<string name="text_score">PONTOS</string>
+		<string name="text_menu">MENU</string>
+		<string name="text_music_on">MÚSICA <font color="#CC0000">Ligada</font></string>
+		<string name="text_music_off">MúSICA <font  color="#CC0000">Desligada</font></string>
+		<string name="text_back">Voltar</string>
+		<string name="text_next">Próximo</string>
+		<string name="text_close">Sair</string>
+		<string name="text_connection_error">Problem connecting to server, please try again later.</string>
+		<string name="text_high_scores">High Scores</string>
+		<string name="text_loading_scores">Loading Scores...</string>
+		<string name="text_name">NickName</string>
+		<string name="text_play">Jogar</string>
+		<string name="text_rank">Rank</string>
+		<string name="text_score">Pontos</string>
+		<string name="text_sending_scores">Sending Score...</string>
+		<string name="text_you">You</string>
+		
+		<string name="text_goal_2">Acerte 2 alvos</string>
+		<string name="text_goal_3">Acerte 3 alvos</string>
+		<string name="text_goal_4">Acerte 4 alvos</string>
+	</strings>
+</data>
